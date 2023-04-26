@@ -1,5 +1,0 @@
-1,Nguyen Van Anh,Doremon,4
-21,Do Dang Hoan,Doremon,4
-21,Do Dang Hoan,Shin Cau Be But Chi,5
-21,Do Dang Hoan,Luan ly hoc,9
-21,Do Dang Hoan,Doremon,4
